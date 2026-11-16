@@ -1,0 +1,120 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aDYSnJAK0BTVeE8osOy22Kz3SXY.jpg",
+      "id": 11,
+      "title": "Star Wars",
+      "original_language": "en",
+      "original_title": "Star Wars",
+      "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "popularity": 78.047,
+      "release_date": "1977-05-25",
+      "video": false,
+      "vote_average": 8.208,
+      "vote_count": 18528
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iflKt34Ck2JpY2PY9wW1zwdJgJi.jpg",
+      "id": 782054,
+      "title": "Doraemon: Nobita's Little Star Wars 2021",
+      "original_language": "ja",
+      "original_title": "映画ドラえもん のび太の宇宙小戦争 2021",
+      "overview": "One day during summer vacation, a palm-sized alien named Papi appears from a small rocket that Nobita picks up. He is the president of Pirika, a small planet in outer space, and has come to Earth to escape the rebels. Doraemon and his friends are puzzled by Papi’s small size, but as they play together using the secret tool “Small Light”, they gradually become friends. However, a whale-shaped space battleship comes to earth and attacks Doraemon, Nobita and the others in order to capture Papi. Feeling responsible for getting everyone involved, Papi tries to stand up to the rebels. Doraemon and his friends leave for the planet Pirika to protect their dear friend and his home.",
+      "poster_path": "/48gKZioIDeUOI0afbYv3kh9u9RQ.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        878,
+        12
+      ],
+      "popularity": 33.466,
+      "release_date": "2022-03-04",
+      "video": false,
+      "vote_average": 5.825,
+      "vote_count": 60
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg",
+      "id": 83867,
+      "name": "Star Wars: Andor",
+      "original_language": "en",
+      "original_name": "Star Wars: Andor",
+      "overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
+      "poster_path": "/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        10768,
+        18
+      ],
+      "popularity": 87.697,
+      "first_air_date": "2022-09-21",
+      "vote_average": 8.223,
+      "vote_count": 671,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Q0diljpwSnUuHfxrZmexxztrEZ.jpg",
+      "id": 114478,
+      "name": "Star Wars: Visions",
+      "original_language": "ja",
+      "original_name": "スター・ウォーズ：ビジョンズ",
+      "overview": "An anthology series of animated short films celebrating Star Wars through the lens of the world's best anime creators.",
+      "poster_path": "/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "popularity": 32.764,
+      "first_air_date": "2021-09-22",
+      "vote_average": 7.304,
+      "vote_count": 237,
+      "origin_country": [
+        "JP",
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+      "id": 4194,
+      "name": "Star Wars: The Clone Wars",
+      "original_language": "en",
+      "original_name": "Star Wars: The Clone Wars",
+      "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+      "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 93.955,
+      "first_air_date": "2008-10-03",
+      "vote_average": 8.48,
+      "vote_count": 1649,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 11,
+  "total_results": 201
+}

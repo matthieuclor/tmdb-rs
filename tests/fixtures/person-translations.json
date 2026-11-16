@@ -1,0 +1,55 @@
+{
+  "id": 31,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "biography": "Thomas Jeffrey Hanks (born July 9, 1956) is an American actor and filmmaker. Known for both his comedic and dramatic roles, Hanks is one of the most popular and recognizable film stars worldwide, and is widely regarded as an American cultural icon.\n\nHanks made his breakthrough with leading roles in the comedies Splash (1984) and Big (1988). He won two consecutive Academy Awards for Best Actor for starring as a gay lawyer suffering from AIDS in Philadelphia (1993) and a young man with below-average IQ in Forrest Gump (1994). Hanks collaborated with film director Steven Spielberg on five films: Saving Private Ryan (1998), Catch Me If You Can (2002), The Terminal (2004), Bridge of Spies (2015), and The Post (2017), as well as the 2001 miniseries Band of Brothers, which launched him as a director, producer, and screenwriter.\n\nHanks' other notable films include the romantic comedies Sleepless in Seattle (1993) and You've Got Mail (1998); the dramas Apollo 13 (1995), The Green Mile (1999), Cast Away (2000), Road to Perdition (2002), and Cloud Atlas (2012); and the biographical dramas Saving Mr. Banks (2013), Captain Phillips (2013), Sully (2016), and A Beautiful Day in the Neighborhood (2019). He has also appeared as the title character in the Robert Langdon film series, and has voiced Sheriff Woody in the Toy Story film series.\n\nDescription above from the Wikipedia article Tom Hanks, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "name": "Tom Hanks"
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "biography": "Thomas Jeffrey Hanks dit Tom Hanks, né le 9 juillet 1956 à Concord (Californie), est un acteur, réalisateur et producteur de cinéma américain.\n\nIl est devenu célèbre avec le film Splash, avant de connaître la consécration avec Philadelphia et Forrest Gump, qui lui valurent chacun l'Oscar du meilleur acteur. La quasi-totalité de ses films suivants furent des grands succès, comme Apollo 13, Il faut sauver le soldat Ryan et La Ligne verte. Il est souvent comparé à James Stewart, et son talent reconnu lui a permis de devenir l'un des acteurs fétiches des réalisateurs Steven Spielberg, Robert Zemeckis et Ron Howard.\n\nEn 2012, les films auxquels il a participé ont généré plus de 4,2 milliards de dollars au box-office américain et plus de 8,5 milliards dans le monde, ce qui en fait l'acteur le plus prolifique de l'histoire du cinéma en matière de succès commerciaux. En 2006, le magazine Forbes le classe 31e des célébrités les mieux payées du monde avec des revenus de 29 millions de dollars. Il est l'un des plus jeunes artistes à avoir reçu un prix de l'American Film Institute.",
+        "name": ""
+      }
+    },
+    {
+      "iso_3166_1": "BR",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "biography": "Thomas Jeffrey Hanks, mais conhecido como Tom Hanks (Concord, 9 de julho de 1956) é um ator, produtor, roteirista e diretor estadunidense premiado. Destacou-se em diversos filmes de sucesso, como Forrest Gump, Apollo 13, That Thing You Do!, The Green Mile, You've Got Mail, Sleepless in Seattle. Charlie Wilson's War, Catch Me If You Can, Cast Away, A League of Their Own, The Da Vinci Code, Captain Phillips, Angels & Demons e como a voz do personagem Woody na série de filmes de animação Toy Story.",
+        "name": ""
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "biography": "То́мас Дже́ффри (Том) Хэнкс (англ. Thomas Jeffrey «Tom» Hanks; род. 9 июля 1956, Конкорд, Калифорния) — американский актёр, кинорежиссёр, сценарист и продюсер, который начинал карьеру в комедиях для семейного просмотра («Большой», 1988), но к сорока годам добился всеобщего признания в качестве серьёзного драматического актёра и получил две премии «Оскар» — за главные роли в фильмах «Филадельфия» (1993) и «Форрест Гамп» (1994) — является одним из двух актёров в истории мирового кинематографа, получивших эту награду два года подряд.\n\nПомимо своих оскароносных ролей, Хэнкс известен совместными работами с режиссёром Стивеном Спилбергом. По состоянию на 2006 год, фильмы с участием Хэнкса собрали больше выручки (ок. 6 миллиардов долларов), чем фильмы с участием любого другого актёра. Самый прибыльный из его фильмов — «Код да Винчи» (2006). Также Том Хэнкс является актёром, получившим один из самых больших гонораров в истории кино (чуть более $51 млн, за роль профессора Роберта Лэнгдона в фильме «Ангелы и демоны»), больше него получил только Леонардо Ди Каприо ( $59 млн + % от сборов, за роль Кобба в фильме «Начало»).",
+        "name": "Том Хэнкс"
+      }
+    },
+    {
+      "iso_3166_1": "UA",
+      "iso_639_1": "uk",
+      "name": "Український",
+      "english_name": "Ukrainian",
+      "data": {
+        "biography": "Томас Джеффрі Генкс — американський актор і продюсер. Починав у комедіях для сімейного перегляду («Великий», 1988), але отримав загальне визнання як серйозний драматичний актор і отримував «Оскар» два роки поспіль — за головні ролі у фільмах «Філадельфія» (1993) і «Форрест Гамп» (1994). Також відомий завдяки фільмам «Врятувати рядового Раяна» та «Вигнанець», за гру в яких Том був номінований на премію «Оскар».\n\nОкрім оскароносних ролей, Генкс відомий спільними роботами з режисером Стівеном Спілбергом. За станом на 2006 рік фільми за участю Генкса зібрали більше виручки (близько 6 мільярдів доларів), аніж фільми за участю будь-якого іншого актора. Найприбутковіший із його фільмів — «Код да Вінчі» — вийшов на екрани якраз 2006 року.",
+        "name": "Том Генкс"
+      }
+    }
+  ]
+}

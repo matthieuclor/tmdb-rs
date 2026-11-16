@@ -1,0 +1,55 @@
+{
+  "id": 3624,
+  "translations": [
+    {
+      "iso_3166_1": "SA",
+      "iso_639_1": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "data": {
+        "name": "",
+        "overview": "سلسلة درامية مبنية على سلسلة روايات لـ جورج آر آر مارتن بعنوان \"إيه سونغ أوف آيس أن فاير\" والتي حققت مبيعات كبيرة وتتمحور حول الصراعات التي كانت تحدث في العصور الوسطى بين العائلات النبيلة للسيطرة على عرش وستيروس."
+      }
+    },
+    {
+      "iso_3166_1": "BY",
+      "iso_639_1": "be",
+      "name": "беларуская мова",
+      "english_name": "Belarusian",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "name": "Сезон 1",
+        "overview": "В земи, където летата продължават с десетилетия, а зимите могат да продължат цял живот две властни фамилии са вкопчени една в друга, в игра на котка и мишка. Наградата е контролът върху Седемте кралства на Вестерос. Крал Робърт Баратеон е женен за Церсей Ланистър, член на богатото и корумпирано семейство Ланистър. Той моли лорд Едард Старк да му помогне да управлява кралството, след съмнителната смърт на най-приближеният му човек. Тронът е заплашен и от изток, където младата принцеса в изгнание Данерис и брат ѝ Визерис искат да си върнат властта."
+      }
+    },
+    {
+      "iso_3166_1": "BS",
+      "iso_639_1": "bs",
+      "name": "Bosanski",
+      "english_name": "Bosnian",
+      "data": {
+        "name": "Season 1",
+        "overview": "Kralj Robert (Mark Addy) stiže u Oštrozimlje po svog novog Namjesnika, dugogodišnjeg si prijatelja Neda (Sean Bean). Nedova obitelj počašćena je kraljevim dolaskom no neki njeni članovi nisu ni malo oduševljeni razdvajanjem koje ih čeka. Naime, Bran (Isaac Hempstead Wright) je doživio „nesreću“ pa će Catlyn (Michelle Fairley) ostati s njim u Oštrozimlju, zajedno sa Robbom (Richard Madden) koji je sad najstariji Stark te malim Rickonom. Nedov vanbračni sin Jon Snow (Kit Harington) uputit će se na Zid koji Sedam kraljevina štiti od zla i divljaka sa sjevera a s Nedom i kraljevskom povorkom otputovat će Nedove kćeri, Sansa (Sophie Turner) i Arya (Maisie Williams). Ipak, svatko od mladih Starkovih uz sebe će zadržat svojeg strahovuka koje su dječaci slučajno pronašli u ranom snijegu. Dakle, Starkovi se razdvajaju ni ne sluteći što ih sve čeka.\n\nPreko mora, dva posljednja Targaryena, Daenerys (Emilia Clarke) i njen brat Viserys (Harry Llyod), prozvan Prosjačkim kraljem, skrivaju se i bježe od Uzurpatorovih mačeva. Viserys ima ambicije vratiti Sedam kraljevina koje su njegovom ocu oteli te, kako bi si osigurao vojsku, udaje svoju vrlo mladu sestru za moćnog konjskog kneza, khala Droga (Jason Momoa). Treće mjesto radnje je Zid gdje Jon shvaća da tamo nema plemenitih i časnih muževa već bivši zločinci koji su između tamnice i Zida radije odabrali zid, koliko god studen i opasan bio. Ipak, i među njima će naći prijatelje.\n\n"
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話",
+      "english_name": "Cantonese",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    }
+  ]
+}

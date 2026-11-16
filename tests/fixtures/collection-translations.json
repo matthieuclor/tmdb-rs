@@ -1,0 +1,60 @@
+{
+  "id": 10,
+  "translations": [
+    {
+      "iso_3166_1": "AE",
+      "iso_639_1": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "data": {
+        "title": "",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "title": "Междузвездни войни (поредица)",
+        "overview": "Междузвездни войни е поредица от шест филма проследяващи живота на Анакин Скайуокър. Открит от джедая Куай-Гон Джин на пустинната планета Татуин Анакин е все още дете, но постепенно се превръща в силния Дарт Вейдър, дясната ръка на Императорът, който почти успява да унищожи джедайте.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "ca",
+      "name": "Català",
+      "english_name": "Catalan",
+      "data": {
+        "title": "Col·lecció Star Wars",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "title": "Star Wars (kolekce)",
+        "overview": "Star Wars (česky původně též Hvězdné války) je americká multimediální franšíza žánru space opera, vytvořená Georgem Lucasem. Její hlavní částí je devítidílná řada celovečerních filmů, ke které se postupně přidala další díla.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "title": "Star Wars (Samling)",
+        "overview": "For meget længe siden i en fjern, fjern galakse....",
+        "homepage": ""
+      }
+    }
+  ]
+}

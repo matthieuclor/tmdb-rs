@@ -1,0 +1,58 @@
+{
+  "id": 1399,
+  "page": 1,
+  "results": [
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8257231,
+      "item_count": 182,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Done",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8258601,
+      "item_count": 220,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "All",
+      "poster_path": null
+    },
+    {
+      "description": "All the Great Movies I've Watched So Far",
+      "favorite_count": 0,
+      "id": 7092449,
+      "item_count": 757,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Watched Movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8289292,
+      "item_count": 9,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "watched tv series",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8234063,
+      "item_count": 4617,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Favorite Actors",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 96,
+  "total_results": 1906
+}
