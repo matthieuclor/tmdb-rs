@@ -29,9 +29,10 @@ pub(crate) fn string_or_number<'de, D: Deserializer<'de>>(
 }
 
 pub(crate) fn comma_list<T: Serialize>(items: &[T]) -> String {
-    items
-        .iter()
-        .filter_map(|item| serde_json::to_value(item).ok()?.as_str().map(str::to_owned))
-        .collect::<Vec<_>>()
-        .join(",")
+    let names: Vec<String> = items.iter().filter_map(name).collect();
+    names.join(",")
+}
+
+fn name<T: Serialize>(item: &T) -> Option<String> {
+    serde_json::to_value(item).ok()?.as_str().map(str::to_owned)
 }

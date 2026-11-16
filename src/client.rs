@@ -73,9 +73,10 @@ impl Client {
         let body = response.bytes().await?;
 
         if !status.is_success() {
-            let message = serde_json::from_slice::<ApiError>(&body)
-                .map(|error| error.status_message)
-                .unwrap_or_default();
+            let message = match serde_json::from_slice::<ApiError>(&body) {
+                Ok(error) => error.status_message,
+                Err(_) => String::new(),
+            };
             return Err(Error::Api {
                 status: status.as_u16(),
                 message,
