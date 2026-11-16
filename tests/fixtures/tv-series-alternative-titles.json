@@ -1,0 +1,30 @@
+{
+  "id": 1399,
+  "results": [
+    {
+      "iso_3166_1": "AL",
+      "title": "Froni i shpatave",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "AR",
+      "title": "El Juego de Tronos",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "BR",
+      "title": "A Guerra dos Tronos",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "权利的游戏",
+      "type": ""
+    },
+    {
+      "iso_3166_1": "CN",
+      "title": "權力的遊戲",
+      "type": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 550,
+  "page": 1,
+  "results": [
+    {
+      "description": "Movies I own",
+      "favorite_count": 0,
+      "id": 8248696,
+      "item_count": 409,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "My Movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8211179,
+      "item_count": 842,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "myList",
+      "poster_path": null
+    },
+    {
+      "description": "I watch way too much but not everything till the end",
+      "favorite_count": 0,
+      "id": 142064,
+      "item_count": 2245,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "Watched",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8168597,
+      "item_count": 14752,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 7054306,
+      "item_count": 1551,
+      "iso_639_1": "es",
+      "list_type": "movie",
+      "name": "Peliculas",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 122,
+  "total_results": 2422
+}

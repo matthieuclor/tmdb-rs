@@ -1,0 +1,65 @@
+{
+  "id": 1399,
+  "translations": [
+    {
+      "iso_3166_1": "SA",
+      "iso_639_1": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "data": {
+        "name": "صراع العروش",
+        "overview": "تتقاتل سبع عائلات نبيلة من أجل السيطرة على أرض - ويستيروس - الأسطورية. الاحتكاك بين العوائل يؤدي إلى حرب واسعة النطاق.  في حين يستيقظ الشر القديم في أقصى الشمال. وفي خضم الحرب، نظام عسكري مهمَل - حرس الليل - هم كل ما يقف بين عالم الإنسان والأهوال الجليدية.",
+        "homepage": "",
+        "tagline": "الشتاء قادم"
+      }
+    },
+    {
+      "iso_3166_1": "BY",
+      "iso_639_1": "be",
+      "name": "беларуская мова",
+      "english_name": "Belarusian",
+      "data": {
+        "name": "Гульня тронаў",
+        "overview": "Сюжэт серыяла заснаваны на фэнтэзійнай сазе Джорджа Марціна «Песьня лёду і полымя»; кожнаму сезону адпавядае адна кніга гепталогіі, з якіх пакуль напісана пяць кніг.",
+        "homepage": "",
+        "tagline": "Зіма блізка"
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "name": "Игра на тронове",
+        "overview": "Сериалът следва историята на фентъзи епос поредицата „Песен за огън и лед“, вземайки името на първата книга. Действието се развива в Седемте кралства на Вестерос, където лятото продължава десетилетия, а зимата – цяла вечност.",
+        "homepage": "",
+        "tagline": "Зимата идва."
+      }
+    },
+    {
+      "iso_3166_1": "BS",
+      "iso_639_1": "bs",
+      "name": "Bosanski",
+      "english_name": "Bosnian",
+      "data": {
+        "name": "",
+        "overview": "Game of Thrones (Igra Prijestolja) srednjovjekovna je fantazija bazirana na seriji romana Georgea R. R. Martina smještena u izmišljenom svijetu Sedam kraljevina i prati dinastička previranja i borbu nekoliko Kuća za kontrolu nad Željeznim prijestoljem. Osim međusobnih borbi plemićkih obitelji, stanovništvu prijeti natprirodna invazija s ledenog sjevera, prognana zmajeva princeza koja želi povratiti obiteljsko naslijeđe te zima koja će trajati godinama.\n\nNakon sumnjive smrti namjesnika kralja Roberta Baratheona, on sa svojom kraljicom Cersei iz bogate i iskvarene obitelji Lannister kreće na putovanje na sjever svome prijatelju knezu Eddardu Starku od Oštrozimlja, od kojega zatraži za postane novi Kraljev Namjesnik. Eddard nevoljko pristaje i tu započinje epska priča o časti i izdaji, ljubavi i mržnji, tajnama i osveti...",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話",
+      "english_name": "Cantonese",
+      "data": {
+        "name": "权利的游戏",
+        "overview": "七个贵族家族为控制维斯特洛的神话之地而战。房屋之间的摩擦导致全面战争。与此同时，一个非常古老的恶魔在最遥远的北方苏醒。在战争中，一个被忽视的军事秩序，即守夜人，是人类王国与冰冷恐怖之间的唯一屏障。",
+        "homepage": "",
+        "tagline": ""
+      }
+    }
+  ]
+}

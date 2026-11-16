@@ -1,0 +1,142 @@
+{
+  "id": 1399,
+  "results": {
+    "AE": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AE",
+      "flatrate": [
+        {
+          "logo_path": "/xEPXbwbfABzPrUTWbgtDFH1NOa.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN",
+          "display_priority": 11
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AR",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 5
+        },
+        {
+          "logo_path": "/cDzkhgvozSr4GW2aRdV22uDuFpw.jpg",
+          "provider_id": 339,
+          "provider_name": "Movistar Play",
+          "display_priority": 9
+        },
+        {
+          "logo_path": "/kV8XFGI5OLJKl72dI8DtnKplfFr.jpg",
+          "provider_id": 467,
+          "provider_name": "DIRECTV GO",
+          "display_priority": 18
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AT",
+      "buy": [
+        {
+          "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 8
+        },
+        {
+          "logo_path": "/cksgBjTHV3rzAVaO2zUyS1mH4Ke.jpg",
+          "provider_id": 40,
+          "provider_name": "Chili",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+          "provider_id": 35,
+          "provider_name": "Rakuten TV",
+          "display_priority": 11
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 14
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/y0kyIFElN5sJAsmW8Txj69wzrD2.jpg",
+          "provider_id": 321,
+          "provider_name": "Sky X",
+          "display_priority": 23
+        },
+        {
+          "logo_path": "/MiVcYLkztM6qqLeVSYWHFCUcXx.jpg",
+          "provider_id": 30,
+          "provider_name": "WOW",
+          "display_priority": 1000
+        }
+      ]
+    },
+    "AU": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AU",
+      "flatrate": [
+        {
+          "logo_path": "/d3ixI1no0EpTj2i7u0Sd2DBXVlG.jpg",
+          "provider_id": 385,
+          "provider_name": "BINGE",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/3WZ89RECN5CVhbfYATBNuQCOZVH.jpg",
+          "provider_id": 134,
+          "provider_name": "Foxtel Now",
+          "display_priority": 7
+        }
+      ],
+      "buy": [
+        {
+          "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+          "provider_id": 2,
+          "provider_name": "Apple TV",
+          "display_priority": 10
+        },
+        {
+          "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 14
+        },
+        {
+          "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+          "provider_id": 68,
+          "provider_name": "Microsoft Store",
+          "display_priority": 18
+        },
+        {
+          "logo_path": "/bKy2YjC0QxViRnd8ayd2pv2ugJZ.jpg",
+          "provider_id": 436,
+          "provider_name": "Fetch TV",
+          "display_priority": 34
+        }
+      ]
+    },
+    "BA": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=BA",
+      "flatrate": [
+        {
+          "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg",
+          "provider_id": 384,
+          "provider_name": "HBO Max",
+          "display_priority": 28
+        }
+      ]
+    }
+  }
+}

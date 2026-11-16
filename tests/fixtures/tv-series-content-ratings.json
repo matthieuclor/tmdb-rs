@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "descriptors": [],
+      "iso_3166_1": "DE",
+      "rating": "16"
+    },
+    {
+      "descriptors": [],
+      "iso_3166_1": "AU",
+      "rating": "R18+"
+    },
+    {
+      "descriptors": [],
+      "iso_3166_1": "FR",
+      "rating": "16"
+    },
+    {
+      "descriptors": [],
+      "iso_3166_1": "US",
+      "rating": "TV-MA"
+    },
+    {
+      "descriptors": [],
+      "iso_3166_1": "CA",
+      "rating": "18+"
+    }
+  ],
+  "id": 1399
+}

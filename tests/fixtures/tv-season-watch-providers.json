@@ -1,0 +1,86 @@
+{
+  "id": 3624,
+  "results": {
+    "AD": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AD",
+      "flatrate": [
+        {
+          "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
+          "provider_id": 1899,
+          "provider_name": "HBO Max",
+          "display_priority": 24
+        }
+      ]
+    },
+    "AE": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AE",
+      "flatrate": [
+        {
+          "logo_path": "/kC6JTo59Gj6I4vJPyBAYGh0sKAE.jpg",
+          "provider_id": 629,
+          "provider_name": "OSN+",
+          "display_priority": 7
+        }
+      ]
+    },
+    "AG": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AG",
+      "flatrate": [
+        {
+          "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
+          "provider_id": 1899,
+          "provider_name": "HBO Max",
+          "display_priority": 11
+        }
+      ]
+    },
+    "AR": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AR",
+      "flatrate": [
+        {
+          "logo_path": "/nr5UBW4IGKgBwmhpTMOfcvnX2vX.jpg",
+          "provider_id": 467,
+          "provider_name": "DIRECTV GO",
+          "display_priority": 12
+        },
+        {
+          "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
+          "provider_id": 1899,
+          "provider_name": "HBO Max",
+          "display_priority": 35
+        }
+      ]
+    },
+    "AT": {
+      "link": "https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=AT",
+      "buy": [
+        {
+          "logo_path": "/seGSXajazLMCKGB5hnRCidtjay1.jpg",
+          "provider_id": 10,
+          "provider_name": "Amazon Video",
+          "display_priority": 3
+        },
+        {
+          "logo_path": "/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg",
+          "provider_id": 3,
+          "provider_name": "Google Play Movies",
+          "display_priority": 7
+        },
+        {
+          "logo_path": "/cBN4jd4wPq6on0kESiTlevqvlnL.jpg",
+          "provider_id": 20,
+          "provider_name": "maxdome Store",
+          "display_priority": 13
+        }
+      ],
+      "flatrate": [
+        {
+          "logo_path": "/kAZkQcIxMxTmlwdgSB05fqtymp0.jpg",
+          "provider_id": 29,
+          "provider_name": "Sky Go",
+          "display_priority": 8
+        }
+      ]
+    }
+  }
+}

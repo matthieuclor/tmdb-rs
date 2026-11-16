@@ -1,0 +1,26 @@
+use tmdb_rs::ChangesQuery;
+
+endpoint!(details: "/movie/11", "movie-details", client => client.movie(11).details());
+endpoint!(alternative_titles: "/movie/11/alternative_titles", "movie-alternative-titles", client => client.movie(11).alternative_titles());
+endpoint!(changes: "/movie/11/changes", "movie-changes", client => client.movie(11).changes(&ChangesQuery::default()));
+endpoint!(credits: "/movie/11/credits", "movie-credits", client => client.movie(11).credits());
+endpoint!(external_ids: "/movie/11/external_ids", "movie-external-ids", client => client.movie(11).external_ids());
+endpoint!(images: "/movie/11/images", "movie-images", client => client.movie(11).images());
+endpoint!(keywords: "/movie/11/keywords", "movie-keywords", client => client.movie(11).keywords());
+endpoint!(lists: "/movie/11/lists", "movie-lists", client => client.movie(11).lists(1));
+endpoint!(recommendations: "/movie/11/recommendations", "movie-recommendations", client => client.movie(11).recommendations(1));
+endpoint!(release_dates: "/movie/11/release_dates", "movie-release-dates", client => client.movie(11).release_dates());
+endpoint!(reviews: "/movie/11/reviews", "movie-reviews", client => client.movie(11).reviews(1));
+endpoint!(similar: "/movie/11/similar", "movie-similar", client => client.movie(11).similar(1));
+endpoint!(translations: "/movie/11/translations", "movie-translations", client => client.movie(11).translations());
+endpoint!(videos: "/movie/11/videos", "movie-videos", client => client.movie(11).videos());
+endpoint!(watch_providers: "/movie/11/watch/providers", "movie-watch-providers", client => client.movie(11).watch_providers());
+endpoint!(latest: "/movie/latest", "movie-latest-id", client => client.movies().latest());
+endpoint!(now_playing: "/movie/now_playing", "movie-now-playing-list", client => client.movies().now_playing(1));
+endpoint!(popular: "/movie/popular", "movie-popular-list", client => client.movies().popular(1));
+endpoint!(top_rated: "/movie/top_rated", "movie-top-rated-list", client => client.movies().top_rated(1));
+endpoint!(upcoming: "/movie/upcoming", "movie-upcoming-list", client => client.movies().upcoming(1));
+endpoint!(changed: "/movie/changes", "changes-movie-list", client => client.movies().changes(&ChangesQuery::default()));
+endpoint!(certifications: "/certification/movie/list", "certification-movie-list", client => client.movies().certifications());
+endpoint!(genres: "/genre/movie/list", "genre-movie-list", client => client.movies().genres());
+endpoint!(providers: "/watch/providers/movie", "watch-providers-movie-list", client => client.movies().providers(None));

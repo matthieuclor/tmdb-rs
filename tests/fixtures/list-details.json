@@ -1,0 +1,117 @@
+{
+  "created_by": "travisbell",
+  "description": "The idea behind this list is to collect the live action comic book movies from within the Marvel franchise.",
+  "favorite_count": 0,
+  "id": "1",
+  "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker ist demaskiert und kann sein normales Leben nicht mehr von den hohen Einsätzen als Superheld trennen. Als er Doctor Strange um Hilfe bittet, wird die Lage noch gefährlicher und er muss entdecken, was es wirklich bedeutet, Spider-Man zu sein.",
+      "popularity": 398.217,
+      "poster_path": "/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
+      "release_date": "2021-12-15",
+      "title": "Spider-Man: No Way Home",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 17267
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 524434,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Eternals",
+      "overview": "Die Eternals sind ein Team aus uralten Außerirdischen, die seit Tausenden von Jahren im Verborgenen auf der Erde gelebt haben. Als eine unerwartete Tragödie sie dazu zwingt, aus dem Schatten zu treten, sind sie gezwungen, sich gegen den ältesten Feind der Menschheit, die Deviants, zu vereinen.",
+      "popularity": 152.187,
+      "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "release_date": "2021-11-03",
+      "title": "Eternals",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 7085
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 566525,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Shang-Chi and the Legend of the Ten Rings",
+      "overview": "Shang-Chi wurde von der terroristischen Geheimorganisation der Ten Rings seit frühster Kindheit zum Killer ausgebildet. Trotz dieses intensiven Martial-Arts-Trainings hat der junge Mann aber versucht, sich ein normales Leben in San Francisco aufzubauen.  Doch als er gerade glaubt, sein früheres Leben vielleicht wirklich hinter sich gelassen zu haben, holt die Vergangenheit ihn wieder ein. Zusammen mit seiner alten Kindheitsfreundin Katy wird er von seinem kriminellen Vater Wenwu in eine Welt gezogen, in der niemand irgendjemanden mit Samthandschuhen anfasst. Nur die zehn Ringe des Mandarin können das Blatt im Kampf gegen das Böse vielleicht noch wenden.",
+      "popularity": 203.222,
+      "poster_path": "/AjXzHBNlmCXZnvpONbUhGtgiUiA.jpg",
+      "release_date": "2021-09-01",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 7993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 497698,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Black Widow",
+      "overview": "Nachdem sie das Sokovia-Abkommen abgelehnt und Steve Rogers zur Flucht verholfen hat, befindet sich Natasha Romanoff auf der Flucht. Von der Regierung gejagt, führt sie ihr Weg nach Russland, wo sie auf alte Verbündete und neue Feinde trifft.",
+      "popularity": 107.622,
+      "poster_path": "/gkyoYo9d6g98xjScnZwh3nL2Yfp.jpg",
+      "release_date": "2021-07-07",
+      "title": "Black Widow",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 8866
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "media_type": "movie",
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Nach der epischen Schlacht gegen Thanos und den schicksalshaften Ereignissen um die Avengers ist Peter zurück an seiner alten Schule. Um vom Superheldendasein etwas auszuruhen, kommt ihm eine Klassenfahrt nach Europa gerade recht, auch um seiner heimlichen Liebe \"MJ\" endlich seine Gefühle gestehen zu können. Die erste Station ist Venedig in Italien. Nach einer entspannten Gondelfahrt mit der Reisegruppe bricht aber plötzlich das Chaos los: Ein riesiges Monster kommt aus dem Wasser und greift die Stadt an. Dem stellt sich ein bisher unbekannter Superheld namens Mysterio entgegen. Und als wäre das nicht genug, taucht dann noch Nick Fury auf, um Spider-Man für eine Mission zu rekrutieren...",
+      "popularity": 92.421,
+      "poster_path": "/mp2rchOm2nchJ3E3fPzTFzkuLd3.jpg",
+      "release_date": "2019-06-28",
+      "title": "Spider-Man: Far From Home",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 13956
+    }
+  ],
+  "item_count": 59,
+  "iso_639_1": "en",
+  "name": "The Marvel Universe",
+  "poster_path": "/coJVIUEOToAEGViuhclM7pXC75R.jpg"
+}

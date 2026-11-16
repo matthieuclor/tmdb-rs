@@ -1,0 +1,119 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8P15FsYcTwQZ4G5rRMd1TKD14Aq.jpg",
+      "id": 103768,
+      "name": "Sweet Tooth",
+      "original_language": "en",
+      "original_name": "Sweet Tooth",
+      "overview": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector.",
+      "poster_path": "/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "popularity": 137.498,
+      "first_air_date": "2021-06-04",
+      "vote_average": 7.928,
+      "vote_count": 1094,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pGtvfzfIRCsiudAWlzlGZ74co5l.jpg",
+      "id": 124800,
+      "name": "Love & Death",
+      "original_language": "en",
+      "original_name": "Love & Death",
+      "overview": "The true story of Candy and Pat Montgomery and Betty and Allan Gore – two churchgoing couples enjoying their small town Texas life… until an extramarital affair leads somebody to pick up an axe.",
+      "poster_path": "/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 72.051,
+      "first_air_date": "2023-04-27",
+      "vote_average": 7.2,
+      "vote_count": 4,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zE9jOFPFCz30cFY606KdhHQbPhI.jpg",
+      "id": 221802,
+      "name": "The Nurse",
+      "original_language": "da",
+      "original_name": "Sygeplejersken",
+      "overview": "Pernille Kurzmann Larsen, a fresh-faced nurse at a hospital, begins to question the attention-seeking tendencies of her colleague, Christina Aistrup Hansen. As Pernille delves deeper into her suspicions, she starts to believe that Christina's behavior may be linked to a series of patient deaths.",
+      "poster_path": "/zroHjvuzScGWfNKpqBPuCDuYZnh.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 33.958,
+      "first_air_date": "2023-04-27",
+      "vote_average": 6.0,
+      "vote_count": 3,
+      "origin_country": [
+        "DK"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oSXHFbQN7QPE3WYlGm3rdNB3Qju.jpg",
+      "id": 218194,
+      "name": "Saint X",
+      "original_language": "en",
+      "original_name": "Saint X",
+      "overview": "A young woman's mysterious death during an idyllic Caribbean vacation creates a traumatic ripple effect that eventually pulls her surviving sister into a dangerous pursuit of the truth.",
+      "poster_path": "/wViKoQ7njLujruFWBMY5NUzj7EV.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "popularity": 41.296,
+      "first_air_date": "2023-04-26",
+      "vote_average": 9.0,
+      "vote_count": 4,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg",
+      "id": 82856,
+      "name": "The Mandalorian",
+      "original_language": "en",
+      "original_name": "The Mandalorian",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "popularity": 1007.844,
+      "first_air_date": "2019-11-12",
+      "vote_average": 8.481,
+      "vote_count": 8899,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}

@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "display_priorities": {
+        "CA": 6,
+        "AE": 1,
+        "AR": 3,
+        "AT": 4,
+        "AU": 10
+      },
+      "display_priority": 2,
+      "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+      "provider_name": "Apple TV",
+      "provider_id": 2
+    },
+    {
+      "display_priorities": {
+        "CA": 8,
+        "AE": 3,
+        "AR": 6,
+        "AT": 8,
+        "AU": 14
+      },
+      "display_priority": 3,
+      "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+      "provider_name": "Google Play Movies",
+      "provider_id": 3
+    },
+    {
+      "display_priorities": {
+        "US": 42
+      },
+      "display_priority": 42,
+      "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+      "provider_name": "Vudu",
+      "provider_id": 7
+    },
+    {
+      "display_priorities": {
+        "CA": 0,
+        "AD": 0,
+        "AE": 0,
+        "AG": 0,
+        "AL": 0
+      },
+      "display_priority": 0,
+      "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
+      "provider_name": "Netflix",
+      "provider_id": 8
+    },
+    {
+      "display_priorities": {
+        "AT": 1,
+        "DE": 1,
+        "GB": 2,
+        "JP": 5,
+        "US": 1
+      },
+      "display_priority": 1,
+      "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
+      "provider_name": "Amazon Prime Video",
+      "provider_id": 9
+    }
+  ]
+}

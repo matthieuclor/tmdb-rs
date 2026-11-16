@@ -51,3 +51,5 @@ jobs:
           tool: cargo-llvm-cov
       - name: Run tests with coverage
         run: cargo cov
+      - name: Run documentation tests
+        run: cargo test --doc

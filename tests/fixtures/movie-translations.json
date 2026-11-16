@@ -1,0 +1,70 @@
+{
+  "id": 550,
+  "translations": [
+    {
+      "iso_3166_1": "SA",
+      "iso_639_1": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "data": {
+        "homepage": "",
+        "overview": "إدوارد يتعرض لضغوط حتى يصل به الحال إلى أنه لا يستطيع النوم لفتراتٍ طويلة، لكنه يجد بعض السلام في جلسات العلاج النفسي الجماعي، يتعرف إدوارد على أحد الأشخاص وهو (تايلر ديردن) الذي يحرره من تعلقه بالأشياء الذي تستعبده ،ثم يحرره من خوفه من الناس. يقومان معًا بإنشاء نادي القتال الذي يجذب الكثير من الأفراد المحبطين ،الذين يقومون بإخراج طاقة غضبهم وكرههم للعالم في القتال.",
+        "runtime": 0,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "AZ",
+      "iso_639_1": "az",
+      "name": "Azərbaycan",
+      "english_name": "Azerbaijani",
+      "data": {
+        "homepage": "",
+        "overview": "Xəyalları olmayan bir gənc yuxusuzluğa qarşı mübarizə aparır, bəlkə də boz və gündəlik həyatı ilə cansıxıcılığının nəticəsidir. Təyyarə gəzintisində o, çox xüsusi bir fəlsəfəyə sahib olan xarizmatik sabun satıcısı Tyler Durden ilə tanış olur: mükəmməllik zəif insanların işidir; bunun əvəzinə özünü məhv etmək həyatı həqiqətən yaşamağa dəyər edən yeganə şeydir. Hər ikisi məyusluqlarını və qəzəblərini söndürə bildikləri gizli mübarizə klubu yaratmaq qərarına gəlirlər, bu da böyük bir müvəffəqiyyət olacaqdır.",
+        "runtime": 0,
+        "tagline": "",
+        "title": "Döyüshçü Klubu"
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "homepage": "",
+        "overview": "Разказвачът е самотник, чийто живот е безцелен низ от незначителни случки. Промяната започва едва след запознанството му с агресивния нихилист Джак. Той го въвежда в подземния свят на тъмни сделки и машинации. Разказвача се включва като участник в кървави боксови двубои, които не му носят очакваното удовлетворение. Постепенно той осъзнава, че губи контрол над себе си, откривайки, че мачовете са част от зловещ план?",
+        "runtime": 139,
+        "tagline": "",
+        "title": "Боен клуб"
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "ca",
+      "name": "Català",
+      "english_name": "Catalan",
+      "data": {
+        "homepage": "",
+        "overview": "Un jove sense il·lusions lluita contra el seu insomni, conseqüència potser del seu tedi per la seva vida gris i rutinària. En un viatge amb avió coneix Tyler Durden, un carismàtic venedor de sabó que sosté una filosofia molt particular: el perfeccionisme és cosa de gent feble; en canvi, l'autodestrucció és l'única cosa que fa que realment la vida valgui la pena. Tots dos decideixen llavors formar un club secret de lluita on descarregar les seves frustracions i la seva ira que tindrà un èxit aclaparador.",
+        "runtime": 0,
+        "tagline": "Caos, entremaliadures i sabó",
+        "title": "El club de la lluita"
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "homepage": "",
+        "overview": "Když nemůžete půl roku usnout, celý okolní svět vám začne připadat jako nekonečný sen. Všechno kolem vás je nedokonalou xeroxovou kopií sebe sama. Chodíte do práce, díváte se na televizi a jste vděčni za to, když občas ztratíte vědomí a nevíte o světě. Lidí s podobnými problémy moc není, ale mladý úspěšný úředník, který si říká Jack, je jedním z nich. Má slušnou práci, vydělává slušné peníze, ale trpí nejtěžší formou nespavosti. Na služební cestě se Jack seznámí s Tylerem Durdenem, který mu nabídne příbytek pod podmínkou, že mu vrazí pořádnou ránu. Tato \"výměna názorů\" se oběma zalíbí a brzy vznikne první Klub rváčů. Místo, kde můžou mladí muži, znechucení světem, odložit své starosti a stát se na pár minut zvířaty.",
+        "runtime": 0,
+        "tagline": "",
+        "title": "Klub rváčů"
+      }
+    }
+  ]
+}

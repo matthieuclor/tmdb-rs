@@ -1,0 +1,37 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 142414,
+      "logo_path": "/tC3oVZvqpwhAG1uSjpMnmj4nW3O.png",
+      "name": "HBO Asia",
+      "origin_country": "SG"
+    },
+    {
+      "id": 143571,
+      "logo_path": null,
+      "name": "HBO Showcase",
+      "origin_country": ""
+    },
+    {
+      "id": 14914,
+      "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 119349,
+      "logo_path": null,
+      "name": "HBO Central Europe",
+      "origin_country": ""
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 22
+}

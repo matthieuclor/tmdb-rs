@@ -1,0 +1,52 @@
+[
+  {
+    "department": "Production",
+    "jobs": [
+      "Casting",
+      "Line Producer",
+      "Co-Producer",
+      "Accounting Trainee",
+      "Assistant Extras Casting"
+    ]
+  },
+  {
+    "department": "Costume & Make-Up",
+    "jobs": [
+      "Costume Design",
+      "First Assistant Hairstylist",
+      "Hair Department Head",
+      "Ager/Dyer",
+      "Key Costumer"
+    ]
+  },
+  {
+    "department": "Lighting",
+    "jobs": [
+      "Rigging Gaffer",
+      "Assistant Chief Lighting Technician",
+      "Lighting Technician",
+      "Master Lighting Artist",
+      "Lighting Supervisor"
+    ]
+  },
+  {
+    "department": "Actors",
+    "jobs": [
+      "Stunt Double",
+      "Actor",
+      "Cameo",
+      "Special Guest",
+      "Voice"
+    ]
+  },
+  {
+    "department": "Crew",
+    "jobs": [
+      "Special Effects",
+      "Production Artist",
+      "Sequence Supervisor",
+      "Photoscience Manager",
+      "Post-Production Manager"
+    ]
+  }
+]
